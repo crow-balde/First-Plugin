@@ -1,0 +1,9 @@
+name: YT
+main: Crow\YT
+api: [3.0.0]
+version: 1.0
+author: Crow
+
+commands:
+  YT:
+  description: YT
